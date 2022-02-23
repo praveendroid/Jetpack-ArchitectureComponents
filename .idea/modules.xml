@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LiveDataSample.iml" filepath="$PROJECT_DIR$/.idea/LiveDataSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LiveDataSample.iml" filepath="$PROJECT_DIR$/.idea/modules/LiveDataSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LiveDataSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LiveDataSample.app.iml" />
     </modules>
   </component>
 </project>
